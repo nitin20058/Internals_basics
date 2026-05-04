@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/nitin/OneDrive/Desktop/Internals_basics/MLOPs_Lab_CIE/mlruns/1/models/m-b2eb0f7699944950aa3ee7efe9ef08d9/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-b2eb0f7699944950aa3ee7efe9ef08d9
+model_size_bytes: 703
+model_uuid: m-b2eb0f7699944950aa3ee7efe9ef08d9
+prompts: null
+run_id: 138783660fde47a09a06fcc87b443d4a
+utc_time_created: '2026-05-04 04:49:04.312669'

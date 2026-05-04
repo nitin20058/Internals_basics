@@ -1,0 +1,13 @@
+{
+    "search_type": "random",
+    "n_folds": 5,
+    "total_trials": 5,
+    "best_params": {
+        "n_estimators": 50,
+        "max_depth": 3,
+        "learning_rate": 0.05
+    },
+    "best_mae": 5.1347604070928385,
+    "best_cv_mae": 36.80778904179571,
+    "parent_run_name": "tuning-swimsync"
+}

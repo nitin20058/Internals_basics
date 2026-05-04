@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "swimsync-lap-time-seconds-predictor",
+    "version": 1,
+    "run_id": "83366612e3564c909657d4a22e2ad193",
+    "source_metric": "rmse",
+    "source_metric_value": 5.954076629512856
+}

@@ -1,0 +1,22 @@
+{
+    "experiment_name": "swimsync-lap-time-seconds",
+    "models": [
+        {
+            "name": "Lasso",
+            "mae": 3.3175492773074,
+            "rmse": 3.469278764937979,
+            "r2": 0.7705223877828383,
+            "mape": 7.86453099970708
+        },
+        {
+            "name": "GradientBoosting",
+            "mae": 4.625873471876216,
+            "rmse": 5.954076629512856,
+            "r2": 0.32408705189489695,
+            "mape": 9.831176305895532
+        }
+    ],
+    "best_model": "Lasso",
+    "best_metric_name": "rmse",
+    "best_metric_value": 3.469278764937979
+}
